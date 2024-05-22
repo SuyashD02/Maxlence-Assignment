@@ -49,7 +49,7 @@ function Blog(){
         <div>
             <Navbar />
             <div className={Classes.blogDetailContainer} style={{ backgroundImage: `url(${blog.imageUrl})` }}>
-                {/* <img src={blog.imageUrl} alt={blog.title} className={Classes.blogImage} /> */}
+                
                 <h1 className="mt-[70px] text-[45px]">{blog.title}</h1>
                 <p className="text-[20px] mt-[-5px]"><strong>Category:</strong> {blog.category}</p>
                 <p className=' mt-[-10px]'>Date Posted:{formattedDate}</p>

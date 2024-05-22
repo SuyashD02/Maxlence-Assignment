@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
 import axios from 'axios';
 import { useNavigate } from "react-router-dom";
-import Classes from './EditBlog.module.css'; // Make sure to import your CSS file
+import Classes from './EditBlog.module.css';
 
 function EditBlog() {
     const { id } = useParams();
@@ -42,7 +42,6 @@ function EditBlog() {
             ...formData,
             [name]: value,
         });
-        // Clear error messages when input changes
         if (name === 'title') setTitleErr(null);
         if (name === 'category') setCategoryErr(null);
         if (name === 'description') setDescriptionErr(null);

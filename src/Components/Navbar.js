@@ -31,7 +31,6 @@ function Navbar() {
       });
   };
 
-  //   const handleOpenLogin= () => setOpenLogin(true);
   return (
     <div className={Classes.navbarEase}>
       <div className={Classes.navClickSection}>
