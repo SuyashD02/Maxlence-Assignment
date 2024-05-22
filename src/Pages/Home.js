@@ -40,7 +40,7 @@ const Home = () => {
     return (
         <div className={Classes.mainDiv}>
            <Navbar/>
-           <div className="flex max-[600px]: flex-col">
+           <div className="flex">
            <input
                         type="text"
                         placeholder="Search..."
