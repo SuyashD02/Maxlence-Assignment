@@ -1,0 +1,59 @@
+{
+  "blogs": [
+    {
+      "id": "a9d8",
+      "title": "Food Blog",
+      "description": "Indian cuisine is always filled with a lot of herbs and spices. Furthermore, the specialty of Indian dishes is, it is always filled with curries. Whether veg or non-veg the dishes are in curry form. Moreover, Indian cuisine has so many varieties of food that has further branches. The Branch consists of Mughal cuisine which is mostly of non-vegetarian dishes. Also, almost every Indian love Muglia dishes.",
+      "category": "Food",
+      "imageUrl": "https://res.cloudinary.com/dmtlcmksw/image/upload/v1716356254/h19xerliu41qrpaeko3m.jpg",
+      "date": "2024-05-22T06:09:21.143Z"
+    },
+    {
+      "id": "3808",
+      "title": "Tech Blog",
+      "description": "Technology is a necessity of the modern lifestyle. Every day there are new ideas and advancements in the technology as the world becomes more involved in discovering and utilizing the potential of natural resources. Technology has improved human lives significantly by providing convenience and efficiency.",
+      "category": "Tech",
+      "imageUrl": "https://res.cloudinary.com/dmtlcmksw/image/upload/v1716358801/fwdnp60xjqyhund8yi1b.jpg",
+      "date": "2024-05-22T06:20:09.863Z"
+    },
+    {
+      "id": "bdd1",
+      "title": "Sports Blog",
+      "description": "Sports play great role in improving and maintaining the health and fitness, improving mental skills and concentration level as well as social and communication skills. Playing sports on regular basis prevents person form the many diseases and disorders of the body organs especially overweight, obese and heart problems.",
+      "category": "Sports",
+      "imageUrl": "https://res.cloudinary.com/dmtlcmksw/image/upload/v1716359513/v4ulsui1cvmlx1rekglt.jpg",
+      "date": "2024-05-22T06:32:03.098Z"
+    },
+    {
+      "id": "23ae",
+      "title": "Fashion Blog",
+      "description": "Fashion is a term used interchangeably to describe the creation of clothing, footwear, accessories, cosmetics, and jewellery of different cultural aesthetics and their mix and match into outfits that depict distinctive ways of dressing (styles and trends) as signifiers of social status, self-expression, and group belonging. As a multifaceted term, fashion describes an industry, styles, aesthetics, and trends.",
+      "category": "Fashion",
+      "imageUrl": "https://res.cloudinary.com/dmtlcmksw/image/upload/v1716368347/qsopafykhjgz29l87pmi.png",
+      "date": "2024-05-22T08:59:25.687Z"
+    },
+    {
+      "title": "Fitness Blog",
+      "category": "Fitness",
+      "description": "Travelling is an amazing way to learn a lot of things in life. A lot of people around the world travel every year to many places. Moreover, it is important to travel to humans. Some travel to learn more while some travel to take a break from their life. No matter the reason, travelling opens a big door for us to explore the world beyond our imagination and indulge in many things. Therefore, through this Essay on Travel, we will go through everything that makes travelling great.\n\n",
+      "imageUrl": {},
+      "id": "ac30"
+    },
+    {
+      "title": "Fitness Blog",
+      "category": "Fitness",
+      "description": "Travelling is an amazing way to learn a lot of things in life. A lot of people around the world travel every year to many places. Moreover, it is important to travel to humans. Some travel to learn more while some travel to take a break from their life. No matter the reason, travelling opens a big door for us to explore the world beyond our imagination and indulge in many things. Therefore, through this Essay on Travel, we will go through everything that makes travelling great.",
+      "imageUrl": "https://res.cloudinary.com/dmtlcmksw/image/upload/v1716393946/cdgr1urnb7966exs3zw7.jpg",
+      "id": "6526"
+    },
+    {
+      "title": "Fitness Blog",
+      "category": "Fitness",
+      "description": "Health and fitness is really means a lot to our life. Students including all the growing age children must know the importance of health and fitness. In order to improve their knowledge about health and fitness as well as improve the skill of English writing, teachers assign them to write paragraphs on health and fitness.",
+      "imageUrl": "https://res.cloudinary.com/dmtlcmksw/image/upload/v1716394718/enx2qtxnfmjh1jz2pesn.jpg",
+      "date": "2024-05-22T16:19:56.049Z",
+      "author": "a123",
+      "id": "2622"
+    }
+  ]
+}
